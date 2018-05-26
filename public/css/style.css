@@ -6,6 +6,7 @@
 
 body{
     color: #73879C;
+    font-size: 1.2rem !important;
 }
 
 html, body {
@@ -191,6 +192,11 @@ html, body {
     background-color: #2c3e50;
     color: #F2F5F7;
     border: 0px;
+}
+
+#sidebar .list-group-item.sub-menu{
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 #sidebar .list-group-item:hover{
